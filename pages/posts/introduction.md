@@ -1,21 +1,10 @@
 ---
-type: page
-title: Top Pepe
-date: 2069-06-09
+title: Introduction
+date: 2069/06/09
+description: Escaping the matrix.
+tag: about
+author: CobraPepe
 ---
-
-import Image from 'next/image'
-
-<Image
-  src="/images/header.png"
-  alt="Photo"
-  width={1125}
-  height={375.27}
-  priority
-  className="next-image"
-/>
-
-# Top Pepe 
 
 Ride the crest of revolution with Top Pepe aka TOP P, where crypto isn't just an asset, it's an audacious statement, a rebellion against the ordinary, a manifesto of the extraordinary. Here, memes are not simply laughter machines; they're the pulse of a vibrant community, the shared language of visionaries who dare to think differently.
 
@@ -30,10 +19,3 @@ We're not just a token; we're an uprising, a beacon for those daring to step out
 Step into the Top Pepe cosmos, and you're not just joining a community; you're enlisting in a revolution. A revolution against mediocrity, against complacency, against the ordinary.
 
 So, come, join the ranks of Top Pepe, arm yourself with tokens and knowledge, and let's escape the matrix, one meme at a time. Welcome to the future of DeFi. Welcome to Top Pepe.
-
----
-
-- Twitter [@TopPepeETH](https://twitter.com/toppepeeth)
-- Discord [discord.gg/VSnu35YdwW](https://discord.gg/VSnu35YdwW)
-- Github [github.com/TopPepe](https://github.com/TopPepe)
-- Docs [Link](https://instagram.com/yourname)

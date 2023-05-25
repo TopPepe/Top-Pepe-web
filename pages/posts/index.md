@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Posts
-date: 2021-03-18
+title: Docs
+date: 2069-06-04
 ---
 
-# Posts
+# Docs
